@@ -1,11 +1,10 @@
 import React from "react";
-import "./App.css";
-import BlackjackGame from "./BlackjackGame";
+import Pokegame from "./Pokegame";
 
 function App() {
     return (
         <div className="App">
-            <BlackjackGame />
+            <Pokegame />
         </div>
     );
 }
